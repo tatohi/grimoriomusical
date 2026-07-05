@@ -44,8 +44,6 @@ Para rodar este repositório localmente ou na nuvem (Vercel/GitHub Pages), certi
     create policy "Permitir deleção para autenticados" on musicas for delete using (auth.role() = 'authenticated');
 ```
 
----
-
 Regras de Acesso (RLS) Recomendadas:
 SELECT: Permitido para usuários autenticados (authenticated).
 
