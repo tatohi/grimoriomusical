@@ -56,7 +56,7 @@ Clone este repositório em sua máquina:
 
 Bash
 ```
-    git clone [https://github.com/seu-usuario/grimorio-musical.git](https://github.com/seu-usuario/grimorio-musical.git)
+    git clone [https://github.com/tatohi/grimoriomusical.git](https://github.com/tatohi/grimoriomusical.git)
 ```
 Abra o arquivo index.html e localize as constantes de inicialização do reino no escopo do <script>:
 
